@@ -1,0 +1,18 @@
+.Clicker-light {
+	background-color: lightcoral;
+}
+.Clicker-dark {
+	background-color: black;
+}
+.Clicker-dark button {
+	background-color: white;
+}
+
+.Clicker-light button {
+	background-color: black;
+	color: white;
+}
+
+.h1-dark {
+	color: lightcoral;
+}
